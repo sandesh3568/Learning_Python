@@ -1,3 +1,9 @@
-<h3> Hello Everyone! </h3>
-This side <h4>Sandesh Bansal</h4> from CSE.
-I am from Jaipur,Rajasthan
+           Hello Everyone!
+This side SANDESH BANSAL from Jaipur,Rajasthan.
+My Branch is Computer Science and Engineering.
+
+So, I have started learning Python and will be sharing all my codes here.
+You can also refer my notes which I will be uploading soon.
+
+Have A great learning!
+BEST OF LUCK 🙂^_^
